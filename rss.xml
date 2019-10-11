@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>inicio</title>
+  <link></link>
+  <description>noticias de tegnologia</description>
+  <item>
+    <title>RSS </title>
+    <link> https://www.tendencias21.net/xml/syndication.rss</link>
+    <description>tendencias21</description>
+  </item>
+  <item>
+    <title>tendencias21</title>
+    <link>https://www.tendencias21.net/xml/syndication.rss</link>
+    <description>noticias</description>
+  </item>
+</channel>
+
+</rss>
